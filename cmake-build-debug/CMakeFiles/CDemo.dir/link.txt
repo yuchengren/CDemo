@@ -1,0 +1,1 @@
+D:/DevelopTools/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/CDemo.dir/main.c.o  -o CDemo.exe -Wl,--out-implib,libCDemo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
